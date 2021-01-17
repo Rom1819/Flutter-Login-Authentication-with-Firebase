@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "103783644649",
+    "firebase_url": "https://loginapp-4d6ca.firebaseio.com",
+    "project_id": "loginapp-4d6ca",
+    "storage_bucket": "loginapp-4d6ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103783644649:android:49d4f67ab7277f9a6a5f78",
+        "android_client_info": {
+          "package_name": "com.ronch.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103783644649-da0o4bmnga12ji3k5u1d5m384skku4vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK7uOpWDgwqZb2_6QA8NnR2Kz9zZYBIW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103783644649-da0o4bmnga12ji3k5u1d5m384skku4vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
